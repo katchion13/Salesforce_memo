@@ -16,3 +16,9 @@ https://trailhead.salesforce.com/<br>
 プラットフォームイベント<br>
 BigObjects<br>
 <br>
+Web3 を支えるテクノロジーを理解すると:<br>
+⇒ Web3 の主要な構成要素を説明する。<br>
+⇒ NFT、ブロックチェーン、暗号通貨を定義する。<br>
+<br>
+Web3 のビルディングブロック: ブロックチェーン<br>
+...
